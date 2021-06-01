@@ -24,18 +24,18 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 </p>
 
 
-<!--Github stats API from anurag -->
+<!--Github stats API-->
 <h2></h2>
 <p>
 <i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of <a href = "https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></i>
 </p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=vision-friendly-dark" style="max-width:50%;height:auto;" alt="Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=vision-friendly-dark" style="max-width:100%;height:auto;" alt="Github Stats" />
   </a>
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" height = auto src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=dark" style="max-width:50%;height:auto;" alt="Streaks" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=dark" style="max-width:100%;height:auto;" alt="Streaks" />
   </a>
 </p>
 
