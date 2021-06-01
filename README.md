@@ -31,7 +31,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 </p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width = "425" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=vision-friendly-dark" style="max-width:100%;height:auto;" alt="Github Stats" />
+    <img align="center" width = "425" height = "168" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=vision-friendly-dark" style="max-width:100%;height:auto;" alt="Github Stats" />
   </a>
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
