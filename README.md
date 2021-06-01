@@ -13,7 +13,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&theme=react" alt="Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="Github Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&layout=compact&theme=react" alt="Top Languages" />
