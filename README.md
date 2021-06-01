@@ -1,6 +1,7 @@
 <!--github banner-->
 <p align = 'center'>
-    <img align = 'center' height = "500" src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.jpg" alt = 'banner'>
+<!--Placeholder github profile for now, until create personal portfolio webpage-->
+    <a href = "https://github.com/alphonsekoh"><img align = 'center' height = "500" src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.jpg" alt = 'banner'></a>
 </p>
 
 <!-- self introduction-->
@@ -19,6 +20,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
     </a>&nbsp;&nbsp;
     <a href = "https://www.linkedin.com/in/koh-huan-yin/"><img height = "50" src ="https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/linkedin.png" alt = "LinkedIn">
     </a>
+<!--To add personal website for portfolio in the future-->
 </p>
 
 
