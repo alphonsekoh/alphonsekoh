@@ -25,7 +25,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 <!--Github stats API from anurag -->
 <h2></h2>
 <p>
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of <a href = "https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></i>
 </p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
