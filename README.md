@@ -1,6 +1,6 @@
 <!--github banner-->
 <p align = 'center'>
-    <img align = 'center' src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.jpg" alt = 'banner' >
+    <img align = 'center' height = "500" src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.jpg" alt = 'banner'>
 </p>
 
 <!-- self introduction-->
