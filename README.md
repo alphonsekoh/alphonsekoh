@@ -15,15 +15,18 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 <!-- Contact Section-->
 <h2 align = 'center'> Feel free to Contact me 💬</h2>
 <p align = 'center'>
-    <a href = "mailto: alphonsekoh@gmail.com"><img height = "50" src= "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/gmail.png" alt = "Email"></a>&nbsp;&nbsp;
-    <a href = "https://www.linkedin.com/in/koh-huan-yin/"><img height = "50" src ="https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/linkedin.png" alt = "LinkedIn"></a>&nbsp;&nbsp;
-
+    <a href = "mailto: alphonsekoh@gmail.com"><img height = "50" src= "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/gmail.png" alt = "Email">
+    </a>&nbsp;&nbsp;
+    <a href = "https://www.linkedin.com/in/koh-huan-yin/"><img height = "50" src ="https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/linkedin.png" alt = "LinkedIn">
+    </a>
 </p>
 
 
 <!--Github stats API from anurag -->
 <h2></h2>
+<p>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+</p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="Github Stats" />
