@@ -11,6 +11,8 @@
 
 I am currently Undergraduate student at Singapore Institute of Technology. I'm passionate about Cloud Computing and am hoping to be a DevOps or a Full-Stack Engineer once I graduate. Currently pursuing my Solution Architect Certification from AWS 🎓
 
+<!--Github stats API from anurag -->
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="Github Stats" />
@@ -24,17 +26,3 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
   <i>GitHub Stats courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">Anurag</a></i>
 </p>
 
-<!--
-**alphonsekoh/alphonsekoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
