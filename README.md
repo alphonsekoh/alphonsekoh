@@ -1,7 +1,7 @@
 <!--github banner-->
 <p align = 'center'>
 <!--Placeholder github profile for now, until create personal portfolio webpage-->
-    <a href = "https://github.com/alphonsekoh"><img align = 'center' height = "500" width: auto src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.jpg" alt = 'banner'></a>
+    <a href = "https://github.com/alphonsekoh"><img align = 'center' height = auto src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.jpg" alt = 'banner'></a>
 </p>
 
 <!-- self introduction-->
