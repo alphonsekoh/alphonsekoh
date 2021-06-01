@@ -1,6 +1,6 @@
 <!--github banner-->
 <p align = 'center'>
-    <img align = 'center' src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.gif" >
+    <img align = 'center' src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.jpg" alt = 'banner' >
 </p>
 
 <!-- self introduction-->
@@ -22,6 +22,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 
 
 <!--Github stats API from anurag -->
+<h2></h2>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
