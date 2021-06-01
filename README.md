@@ -1,7 +1,7 @@
 <!--github banner-->
 <p align = 'center'>
 <!--Placeholder github profile for now, until create personal portfolio webpage-->
-    <a href = "https://github.com/alphonsekoh"><img align = 'center' height = auto src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.jpg" alt = 'banner'></a>
+    <a href = "https://github.com/alphonsekoh"><img align = 'center' src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.jpg" style="max-width:100%;height:auto;" alt = 'banner'></a>
 </p>
 
 <!-- self introduction-->
@@ -31,11 +31,11 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 </p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=react" style="max-width:100%;height:auto;" alt="Github Stats" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&layout=compact&theme=react" alt="Top Languages" />
+    <img align="center" height = auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&layout=compact&theme=react" style="max-width:100%;height:auto;" alt="Top Languages" />
   </a>
 </p>
 
