@@ -32,8 +32,8 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 <img height="160" width="288" alt="David's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&theme=prussian&layout=compact" /> 
 </a>
 </p>
-</br>
-<p>
+
+<p align = 'center'>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img align ="center" height = "160" width = "425" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=prussian&hide_border=false" style="max-width:100%;height:auto;" alt="Streaks" />
   </a>
