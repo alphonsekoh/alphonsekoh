@@ -25,11 +25,11 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height = "160" width = "425" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=vision-friendly-dark&hide_border=false" style="max-width:100%;height:auto;" alt="Github Stats" />
+    <img align="left" height = "160" width = "450" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=vision-friendly-dark&hide_border=false" style="max-width:100%;height:auto;" alt="David's Github Stats" />
   </a>
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height = "160" width = "425" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=dark&hide_border=false" style="max-width:100%;height:auto;" alt="Streaks" />
+    <img height = "160" width = "288" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=dark&hide_border=false" style="max-width:100%;height:auto;" alt="Streaks" />
   </a>
 </p>
 
