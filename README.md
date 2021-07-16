@@ -29,7 +29,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
   </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="160" width="288" alt="David's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&theme=prussian&layout=compact" /> 
+<img height="160" alt="David's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&theme=prussian&layout=compact" /> 
 </a>
 </p>
 
