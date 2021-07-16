@@ -1,7 +1,7 @@
 <!--github banner-->
 
 <!-- self introduction-->
-<h2 align = 'center'> Hi there I am David! I am a <𝚌𝚘𝚍𝚎𝚛𝚜/> 👋</h2>
+<h2 align = 'center'> Hi there I am David! I am a <𝚌𝚘𝚍𝚎𝚛/> 👋</h2>
 <p align='center'>
   <b>25 year old programmer</b> from <b>Singapore</b>. 🇸🇬 </br>
   <b>Software Engineering Student</b> in the <b> Singapore Institute of Technology</b>. 👨‍💻 </br>
