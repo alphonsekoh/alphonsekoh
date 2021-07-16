@@ -1,11 +1,7 @@
 <!--github banner-->
-<p align = 'center'>
-<!--Placeholder github profile for now, until create personal portfolio webpage-->
-    <a href = "https://github.com/alphonsekoh"><img align = 'center' src = "https://github.com/alphonsekoh/alphonsekoh/blob/main/assets/banner.jpg" style="max-width:100%;height:auto;" alt = 'banner'></a>
-</p>
 
 <!-- self introduction-->
-<h2 align = 'center'> Hi there I am David! (he/him/his) 👋</h2>
+<h2 align = 'center'> Hi there I am David! I am a <CODER /> 👋</h2>
 <p align='center'>
   <b>25 year old programmer</b> from <b>Singapore</b>. 🇸🇬 </br>
   <b>Software Engineering Student</b> in the <b> Singapore Institute of Technology</b>. 👨‍💻 </br>
@@ -26,9 +22,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 
 <!--Github stats API-->
 <h2></h2>
-<p>
-<i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of <a href = "https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></i>
-</p>
+
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width = "425" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=vision-friendly-dark&hide_border=false" style="max-width:100%;height:auto;" alt="Github Stats" />
