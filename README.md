@@ -55,7 +55,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 <!--Github stats API-->
 ## Github Stats 📈
 ![David's Github Stats](https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&theme=great-gatsby&layout=compact)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=great-gatsby&hide_border=false)
 
 <br>
