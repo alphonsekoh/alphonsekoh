@@ -1,17 +1,17 @@
 <!--github banner-->
 
 <!-- self introduction-->
-# Hi, I'm David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I am David I am a <𝚌𝚘𝚍𝚎𝚛/>!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [<img align="left" alt="David | LinkedIn" width="22px" src="./assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="David | Twitter" width="22px" src="./assets/twitter.svg" />][twitter]
 [<img align="left" alt="David | Gmail" width="22px" src="./assets/gmail.svg" />][gmail]
 
-<p align='center'>
-  <b>25 year old programmer</b> from <b>Singapore</b>. 🇸🇬 </br>
-  <b>Software Engineering Student</b> in the <b> Singapore Institute of Technology</b>. 👨‍💻 </br>
-</p>
+
+### 25 year old programmer from Singapore. 🇸🇬
+### Software Engineering Student in the Singapore Institute of Technology. 👨‍💻
+
 
 I am currently Undergraduate student at Singapore Institute of Technology. I'm passionate about Cloud Computing and Blockchain technology and am hoping to be a DevOps or a Full-Stack Engineer once I graduate. Currently pursuing my Solution Architect Certification from AWS 🎓
 
@@ -47,10 +47,11 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=flat&logo=amazon&logoColor=white)
 
 
 <!--Github stats API-->
-<h2></h2>
+## Github Stats 
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
