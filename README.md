@@ -50,7 +50,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=flat&logo=amazon%20aws&logo&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=flat&logo=amazon%20aws&logoColor=white)
 
 
 <!--Github stats API-->
