@@ -1,19 +1,21 @@
 <!--github banner-->
 
 <!-- self introduction-->
-# Hi, I am David I am a <𝚌𝚘𝚍𝚎𝚛/>!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I am David and I am a <𝚌𝚘𝚍𝚎𝚛/> !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [<img align="left" alt="David | LinkedIn" width="22px" src="./assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="David | Twitter" width="22px" src="./assets/twitter.svg" />][twitter]
 [<img align="left" alt="David | Gmail" width="22px" src="./assets/gmail.svg" />][gmail]
 
+<br>
+<br>
 
 ### 25 year old programmer from Singapore. 🇸🇬
 ### Software Engineering Student in the Singapore Institute of Technology. 👨‍💻
 
 
-I am currently Undergraduate student at Singapore Institute of Technology. I'm passionate about Cloud Computing and Blockchain technology and am hoping to be a DevOps or a Full-Stack Engineer once I graduate. Currently pursuing my Solution Architect Certification from AWS 🎓
+I am currently Undergraduate student at Singapore Institute of Technology. I'm passionate about Cloud Computing, Blockchain technology and Cybersecurity techniques and am hoping to be a DevOps or a Full-Stack Engineer once I graduate. Currently pursuing my Solution Architect Certification from AWS 🎓
 
 ### My Stack
 
@@ -51,23 +53,12 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 
 
 <!--Github stats API-->
-## Github Stats 
+## Github Stats 📈
+![David's Github Stats](https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=great-gatsby&hide_border=false)
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height = "160" width = "450" src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian&hide_border=false" style="max-width:100%;height:auto;" alt="David's Github Stats" />
-  </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="160" width="288" alt="David's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&theme=prussian&layout=compact" /> 
-</a>
-</p>
-
-<p align = 'center'>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align ="center" height = "160" width = "425" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=prussian&hide_border=false" style="max-width:100%;height:auto;" alt="Streaks" />
-  </a>
-</p>
+<br>
 
 <p align='left'>
   <i>GitHub Stats courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">Anurag</a> and <a href ="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a></i>
