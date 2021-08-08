@@ -27,6 +27,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
 ![Cplusplus](https://img.shields.io/badge/-C++-0175C2?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C%20Language-0175C2?style=flat&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-7E7E7E?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
 
 #### Application and Data:
 
