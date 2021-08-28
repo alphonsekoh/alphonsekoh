@@ -1,6 +1,6 @@
 <!--github banner-->
 
-<!-- self introduction-->
+<!-- Self Introduction-->
 # Hi, I am David and I am a <𝚌𝚘𝚍𝚎𝚛/> !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
@@ -65,7 +65,7 @@ I am currently Undergraduate student at Singapore Institute of Technology. I'm p
   <i>GitHub Stats courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">Anurag</a> and <a href ="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a></i>
 </p>
 
-<!-- Constants-->
+<!-- Constants -->
 [linkedin]: https://www.linkedin.com/in/koh-huan-yin/
 [gmail]: mailto:alphonsekoh@gmail.com
 [twitter]: https://twitter.com/huan_xcv
