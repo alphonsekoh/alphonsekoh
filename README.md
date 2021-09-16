@@ -15,7 +15,7 @@
 ### Software Engineering Student in the Singapore Institute of Technology. 👨‍💻
 
 
-I am currently Undergraduate student at Singapore Institute of Technology. I'm passionate about Cloud Computing, Blockchain technology and Cybersecurity techniques and am hoping to be a Data, DevOps or a Full-Stack Engineer once I graduate. Currently pursuing my Developer Associate Certification from AWS 🎓
+I am currently an Undergraduate student at Singapore Institute of Technology. I'm passionate about Cloud Computing, Blockchain technology and Cybersecurity techniques and am hoping to be a Data, DevOps or a Full-Stack Engineer once I graduate. Currently pursuing my Developer Associate Certification from AWS 🎓
 
 ### My Stack
 
