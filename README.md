@@ -60,6 +60,9 @@ I am currently an Undergraduate student at Singapore Institute of Technology. I'
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=great-gatsby&hide_border=false)
 
 <br>
+<!--Github activities API-->
+## Contribution graph
+[![David's github activity graph](https://activity-graph.herokuapp.com/graph?username=alphonsekoh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align='left'>
   <i>GitHub Stats courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">Anurag</a> and <a href ="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a></i>
