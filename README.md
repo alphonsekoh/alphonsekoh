@@ -1,5 +1,3 @@
-<!--github banner-->
-
 <!-- Self Introduction-->
 # Hi, I am David and I am a <𝚌𝚘𝚍𝚎𝚛/> !!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 
