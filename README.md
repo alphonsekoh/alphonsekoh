@@ -62,15 +62,6 @@ I am currently a Year 2 Undergraduate student at Singapore Institute of Technolo
   <i>GitHub Stats courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">Anurag</a> and <a href ="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a></i>
 </p>
 
-<!--Github activities API-->
-
-## Contribution graph 📈
-
-![David's github activity graph](https://activity-graph.herokuapp.com/graph?username=alphonsekoh&theme=react-dark)
-
-<p align='left'>
-  <i>GitHub Contribution activity graph courtesy of <a href="https://github.com/ashutosh00710/github-readme-activity-graph">Ashutosh00710</a>
-</p>
 
 <!-- Constants -->
 [linkedin]: https://www.linkedin.com/in/koh-huan-yin/
