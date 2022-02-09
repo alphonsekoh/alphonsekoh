@@ -26,6 +26,7 @@ I am currently a Year 2 Undergraduate student at Singapore Institute of Technolo
 ![C](https://img.shields.io/badge/-C%20Language-0175C2?style=flat&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-7E7E7E?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-A9A9A9?style=flat&logo=kotlin&logoColor=purple)
 
 #### Application and Data:
 
