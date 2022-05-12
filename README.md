@@ -64,10 +64,9 @@ I am currently a Year 2 Undergraduate student at Singapore Institute of Technolo
   <!-- Top Lang -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&theme=great-gatsby&layout=compact&langs_count=10" alt="Top Lang" style="width:420px;"/>
   <!-- Top Streak -->
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=great-gatsby&hide_border=false" alt="Top Streak" style="width:550px;"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=great-gatsby&hide_border=false" alt="Top Streak" style="width:500px;"/>
 </p>
 
-*** 
 
 
 
