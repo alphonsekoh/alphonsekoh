@@ -54,14 +54,22 @@ I am currently a Year 2 Undergraduate student at Singapore Institute of Technolo
 
 <!--Github stats API-->
 ## Github Stats 📈
-![David's Github Stats](https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=stars&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&theme=great-gatsby&layout=compact&langs_count=10)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=great-gatsby&hide_border=false)
-
-<br>
-<p align='left'>
-  <i>GitHub Stats courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">Anurag</a> and <a href ="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a></i>
+<!-- GH Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=stars&theme=great-gatsby" alt="GH Stats" style="width:500px;"/>
 </p>
+
+
+<p>
+  <!-- Top Lang -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&theme=great-gatsby&layout=compact&langs_count=10" alt="Top Lang" style="width:420px;"/>
+  <!-- Top Streak -->
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=great-gatsby&hide_border=false" alt="Top Streak" style="width:550px;"/>
+</p>
+
+*** 
+
+
 
 
 <!-- Constants -->
