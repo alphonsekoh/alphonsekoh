@@ -1,5 +1,5 @@
 <!-- Self Introduction-->
-# Hi, I am [David](https://kohhuanyin.netlify.app/) and I am a <𝚌𝚘𝚍𝚎𝚛/> !!
+# Hi, I am [David](https://kohhuanyin.com/) and I am a <𝚌𝚘𝚍𝚎𝚛/> !!
 
 
 [<img align="left" alt="David | LinkedIn" width="22px" src="./assets/linkedin.svg" />][linkedin]
