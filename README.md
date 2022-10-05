@@ -9,33 +9,8 @@
 <br>
 <br>
 
-### 26 year old programmer from Singapore. 🇸🇬
-### Software Engineering Student in the Singapore Institute of Technology. 👨‍💻
-
-
-I am currently a Year 2 Undergraduate student at Singapore Institute of Technology. I'm passionate about Cloud Computing, Blockchain technology and Cybersecurity techniques and am hoping to be a Data, DevOps or a Full-Stack Engineer once I graduate. Currently pursuing my Developer Associate Certification from AWS 🎓
 
 ### My Stack
-
-#### Languages:
-
-![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-456888?style=flat&logo=python&logoColor=white)
-![Cplusplus](https://img.shields.io/badge/-C++-0175C2?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C%20Language-0175C2?style=flat&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-7E7E7E?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-A9A9A9?style=flat&logo=kotlin&logoColor=purple)
-
-#### Application and Data:
-
-![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 
 
 #### Utilities:
@@ -50,24 +25,12 @@ I am currently a Year 2 Undergraduate student at Singapore Institute of Technolo
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=flat&logo=amazon%20aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 
 
 <!--Github stats API-->
 ## Github Stats 📈
-<!-- GH Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphonsekoh&show_icons=true&count_private=true&hide=stars&theme=great-gatsby" alt="GH Stats" style="width:500px;"/>
-</p>
-
-
-<p>
-  <!-- Top Lang -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&theme=great-gatsby&layout=compact&langs_count=10" alt="Top Lang" style="width:380px;"/>
-  <!-- Top Streak -->
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=great-gatsby&hide_border=false" alt="Top Streak" style="width:400px;"/>
-</p>
-
-
+![Metrics](https://metrics.lecoq.io/alphonsekoh?template=classic&languages=1&lines=1&isocalendar=1&notable=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FSingapore&config.display=columns)
 
 
 
