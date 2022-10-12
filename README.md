@@ -21,7 +21,7 @@ I am a 27 year old software engineer from Singapore. I started gaining interest 
 - Become a full fledged devops engineer
 - Learn more programming languages and tools (Rust, Go, Kubernetes)
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!-- Constants -->
 
