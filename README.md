@@ -5,6 +5,7 @@
 [<img align="left" alt="David | LinkedIn" width="22px" src="./assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="David | Twitter" width="22px" src="./assets/twitter.svg" />][twitter]
 [<img align="left" alt="David | Gmail" width="22px" src="./assets/gmail.svg" />][gmail]
+[<img align="left" alt="David | Website" width="22px" src="./assets/internet.svg" />][personalsite]
 </br>
 
 ## **About me**
@@ -27,3 +28,4 @@ I am a 27 year old software engineer from Singapore. I started gaining interest 
 [linkedin]: https://www.linkedin.com/in/koh-huan-yin/
 [gmail]: mailto:alphonsekoh@gmail.com
 [twitter]: https://twitter.com/huan_xcv
+[personalsite]: https://kohhuanyin.com/
