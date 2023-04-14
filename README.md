@@ -14,15 +14,20 @@ I am a 28 year old software engineer from Singapore. I started gaining interest 
 
 - Penultimate at Singapore Institute of Technology
 - Major in Software Engineering
-- Associate Software Engineer
+- Associate Software Engineer at [Firefense] Pte. Ltd
 
 ## What are my goals?
 
 - Become a full fledged devops engineer
 - Learn more programming languages and tools (Rust, Go, Kubernetes)
-<div style"text-align:center">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="50%">
-</div>
+
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=alphonsekoh&theme=tokyo-night">
+
+<p align="center">
+<img align="left" width="240" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=tokyonight">
+
+  <img align="right" width="210" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&layout=compact&theme=tokyonight&hide=html,jupyter%20notebook,css&langs_count=6">
+</p>
 
 <!-- Constants -->
 
@@ -30,3 +35,4 @@ I am a 28 year old software engineer from Singapore. I started gaining interest 
 [gmail]: mailto:alphonsekoh@gmail.com
 [twitter]: https://twitter.com/huan_xcv
 [personalsite]: https://kohhuanyin.com/
+[firefense]: https://www.firefense.com/
