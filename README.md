@@ -26,7 +26,7 @@ I am a 28 year old software engineer from Singapore. I started gaining interest 
 <p align="center">
 <img align="left" width="423" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=tokyonight">
 <p align="right">
-  <img align="center" width="423" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&layout=compact&theme=tokyonight&hide=html,jupyter%20notebook,css&langs_count=6">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&layout=compact&theme=tokyonight&hide=html,jupyter%20notebook,css&langs_count=6">
   </p>
 </p>
 
