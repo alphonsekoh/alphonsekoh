@@ -21,7 +21,7 @@ I am a 28 year old software engineer from Singapore. I started gaining interest 
 - Become a full fledged devops engineer
 - Learn more programming languages and tools (Rust, Go, Kubernetes)
 
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=alphonsekoh&theme=tokyo-night">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsekoh&theme=tokyo-night">
 
 <p align="center">
 <img align="left" width="423" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=tokyonight">
