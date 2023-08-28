@@ -12,7 +12,7 @@
 
 I am a 28 year old software engineer from Singapore. I started gaining interest in coding roughly 10 years ago back in 2012. Over the years I have explored various different areas of software engineering and I am highly experienced in several different languages and tools for development and operations.
 
-- Penultimate at Singapore Institute of Technology
+- Final Year at Singapore Institute of Technology
 - Major in Software Engineering
 - Associate Software Engineer at [Firefense] Pte. Ltd
 
