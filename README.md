@@ -10,16 +10,16 @@
 
 ## **About me**
 
-I am a 28 year old software engineer from Singapore. I started gaining interest in coding roughly 10 years ago back in 2012. Over the years I have explored various different areas of software engineering and I am highly experienced in several different languages and tools for development and operations.
+I am a 29 year old software engineer from Singapore 🇸🇬. 
 
-- Final Year at Singapore Institute of Technology
-- Major in Software Engineering
-- Associate Software Engineer at [Firefense] Pte. Ltd
+- Software Engineer (Fullstack + DevOps) at [Firefense] Pte. Ltd
+- Christian at the True Jesus Church 🕊️
 
 ## What are my goals?
 
-- Become a full fledged devops engineer
-- Learn more programming languages and tools (Rust, Go, Kubernetes)
+- To be more familiarised with Frontend frameworks such as ReactJS and NextJS. Knowing what are their advantages and disadvantages that these framework provide. 👨🏻‍💻👩🏻‍💻
+- Get an in-depth knowledge about DevOps; automating pipelines and ensuring the workflow for development and deployments are streamlined. ♾️
+- Able to spend meaningful time with people around me 🫰🏽
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsekoh&theme=tokyo-night">
 
