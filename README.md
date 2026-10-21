@@ -1,6 +1,6 @@
 <!-- Self Introduction-->
 
-# Hi, I am [David](https://kohhuanyin.com/) and I am a <𝚌𝚘𝚍𝚎𝚛/> !!
+# Hi, I am [David](https://davidkoh.dev/) and I am a <𝚌𝚘𝚍𝚎𝚛/> !!
 
 [<img align="left" alt="David | LinkedIn" width="22px" src="./assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="David | Twitter" width="22px" src="./assets/twitter.svg" />][twitter]
@@ -21,10 +21,10 @@ I am a 29 year old software engineer from Singapore 🇸🇬.
 - Get an in-depth knowledge about DevOps; automating pipelines and ensuring the workflow for development and deployments are streamlined. ♾️
 - Able to spend meaningful time with people around me 🫰🏽
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsekoh&theme=tokyo-night">
+<img align="center" alt="GitHub contributions chart" src="https://ghchart.rshah.org/7aa2f7/alphonsekoh">
 
 <p align="center">
-<img align="left" width="423" src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsekoh&theme=tokyonight">
+<img align="left" width="423" src="https://streak-stats.demolab.com/?user=alphonsekoh&theme=tokyonight">
 <p align="right">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekoh&layout=compact&theme=tokyonight&hide=html,jupyter%20notebook,css&langs_count=6">
   </p>
@@ -35,5 +35,5 @@ I am a 29 year old software engineer from Singapore 🇸🇬.
 [linkedin]: https://www.linkedin.com/in/koh-huan-yin/
 [gmail]: mailto:alphonsekoh@gmail.com
 [twitter]: https://twitter.com/huan_xcv
-[personalsite]: https://kohhuanyin.com/
+[personalsite]: https://davidkoh.dev/
 [firefense]: https://www.firefense.com/
