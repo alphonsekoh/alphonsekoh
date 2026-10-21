@@ -10,7 +10,7 @@
 
 ## **About me**
 
-I am a 29 year old software engineer from Singapore 🇸🇬. 
+I am a 31 year old software engineer from Singapore 🇸🇬. 
 
 - Software Engineer (Fullstack + DevOps) at [Firefense] Pte. Ltd
 - Christian at the True Jesus Church 🕊️
