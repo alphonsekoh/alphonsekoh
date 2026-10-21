@@ -18,8 +18,9 @@ I am a 31 year old software engineer from Singapore 🇸🇬.
 
 ## What are my goals?
 
-- To be more familiarised with Frontend frameworks such as ReactJS and NextJS, and to know the advantages and disadvantages these frameworks provide. 👨🏻‍💻👩🏻‍💻
-- Get an in-depth knowledge about DevOps; automating pipelines and ensuring the workflow for development and deployments are streamlined. ♾️
+- Build useful tools with AI, from MCP servers to agents that work with real-world data. 🤖
+- Go deeper into embedded systems and bridge hardware with software. 🔌
+- Use my skills to serve my church community through apps like our door-to-door outreach tool. 🕊️
 - Able to spend meaningful time with people around me 🫰🏽
 
 ## GitHub activity
